@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+/* eslint-disable react/react-in-jsx-scope */
+import "./App.css";
+import logo from "./logo.svg";
 
 function App() {
   return (
